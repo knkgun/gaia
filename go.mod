@@ -7,7 +7,7 @@ require (
 	github.com/cosmos/ibc-go/v2 v2.0.2
 	github.com/gorilla/mux v1.8.0
 	github.com/gravity-devs/liquidity v1.4.2
-	github.com/rakyll/statik v0.1.7
+	github.com/rakyll/statik v0.1.8
 	github.com/spf13/cast v1.4.1
 	github.com/spf13/cobra v1.3.0
 	github.com/strangelove-ventures/packet-forward-middleware v1.0.1
